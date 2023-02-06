@@ -4,6 +4,9 @@ Hi! My name is Gustav Eneberg!
 I'm a all around nerd with current focus on WebDev.
 ---------------------------------------------
 
+<a href="https://www.github.com/n4krug" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/n4krug?logo=github&style=flat&color=3382ed&labelColor=1c1917" /></a>
+
 * 🌍  I'm based in Malmö, Sweden
 * ✉️  You can contact me at [gustav.eneberg@gmail.com](mailto:gustav.eneberg@gmail.com)
 * 🧠  I'm currently learning SolidStart
@@ -23,6 +26,6 @@ I'm a all around nerd with current focus on WebDev.
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<!--- ### Socials
+### Socials
 
-<p align="left"> <a href="https://www.github.com/n4krug" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p> -->
+<p align="left"> <a href="https://discord.com/users/n4kruG#5294" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/n4krug" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/gustav.eneberg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gustav-eneberg-231411217/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/n4krug" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
