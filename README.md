@@ -1,7 +1,7 @@
 Hi! My name is Gustav Eneberg!
 ======================================================================================================================================
 
-I'm a all around nerd with current focus on WebDev.
+I'm a all around nerd with focus on Web Development.
 ---------------------------------------------
 
 <a href="https://www.github.com/n4krug" target="_blank" rel="noreferrer"><img
