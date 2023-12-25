@@ -7,9 +7,9 @@ I'm a all around nerd with focus on Web Development.
 <a href="https://www.github.com/n4krug" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/n4krug?logo=github&style=flat&color=3382ed&labelColor=1c1917" /></a>
 
-* 🌍  I'm based in Malmö, Sweden
+* 🌍  I'm based in Luleå, Sweden
 * ✉️  You can contact me at [gustav.eneberg@gmail.com](mailto:gustav.eneberg@gmail.com)
-* 🧠  I'm currently learning SolidStart
+* 🧠  I'm currently studying Space Engineering @ LTU
 
 ### Skills
 
